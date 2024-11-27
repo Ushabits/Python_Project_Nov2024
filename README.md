@@ -53,7 +53,7 @@ The dataset comprises several CSV files, each focusing on a specific entity rela
 This dataset offers a rich foundation for sports analytics, trend analysis, and predictive modeling related to the Olympics.
 
 **Dataset Usage in the Script**
-*Participating Athletes and Teams:*
+1. **Participating Athletes and Teams:**
   - Files Used: athletes.csv, teams.csv, coaches.csv
   - Key Insights:
       - Distribution of athletes by country.
@@ -61,14 +61,14 @@ This dataset offers a rich foundation for sports analytics, trend analysis, and 
       - Gender distribution of athletes.
       - Number of coaches per sport.
     
-*Medal Analysis:*
+2. **Medal Analysis:**
   - Files Used: medals.csv, medals_total.csv, medalists.csv, nocs.csv
   - Key Insights:
     - Top medal-winning countries and distribution of gold, silver, and bronze medals.
     - Countries with the highest number of gold medals.
     - Correlation between athlete age and medal performance.
 
-*Events and Technical Officials:*
+3. **Events and Technical Officials:**
   - Files Used: events.csv, technical_officials.csv
   - Key Insights:
     - Distribution of officials by roles (e.g., referee, judge).
